@@ -85,7 +85,7 @@ export const photos = [
 export const bandNews =[
    {id:1, pic:sundayhatstenthub, alt: "Rock band live", caption: 'Anniversary show', date:'Jan 26 2024',
    description: 'A live show for the anniversary of ten years since out first single. We played at the 8ball club Thessaloniki, along a great band called Garage Days'},
-   {id:2, pic:sundayhatshorizonsthub, alt: "Rock band live", caption: 'Live show',  date:'Apr 28 2028',
+   {id:2, pic:sundayhatshorizonsthub, alt: "Rock band live", caption: 'Live show',  date:'Apr 28 2023',
    description: 'An amazing show with a lot of energy and so many friends to sing along with us. Rocking the 8ball club, it was a night to remember...'},
    {id:3, pic:summertimevideo, alt: "Rock band summer", caption: 'Summertime Single',  date:'Aug 4 2023',
    description: 'A new single and a music video for all the summer lovers out there. You can feel the summer vibes from start to finish. Vacay mode on.'},
